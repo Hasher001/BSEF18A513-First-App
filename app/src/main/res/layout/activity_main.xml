@@ -110,7 +110,7 @@
         android:layout_height="78dp"
         android:layout_marginTop="48dp"
         android:backgroundTint="#009C08"
-        android:onClick="grey"
+        android:onClick="green"
         app:cornerRadius="30dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.137"
